@@ -1,0 +1,9 @@
+credentials/
+__pycache__/
+*.pyc
+output/
+test_samples/
+gdrive_config.json
+.streamlit/secrets.toml
+.DS_Store
+.claude/
